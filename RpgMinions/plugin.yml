@@ -1,0 +1,8 @@
+name: RpgMinions
+main: com.vartala.soulofw0lf.rpgminions.RpgMinions
+version: 1.0
+depend: [RemoteEntities]
+commands:
+    minion:
+        description: enter or leave the lobby
+        usage: /<lobby> [add]
